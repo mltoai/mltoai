@@ -15,7 +15,7 @@
 2. [Tutorials](#tutorials-)
    - [Beginner Tutorials](#beginner-tutorials-)
    - [Advanced Tutorials](#advanced-tutorials-)
-   - [Projects and Case Studies](#projects-and-case-studies-)
+   - [Projects and Case Studies](#projects-and-case-studies)
 3. [Courses](#courses-)
    - [Free Courses](#free-courses-)
    - [Premium Courses](#premium-courses-)
@@ -24,21 +24,21 @@
    - [Articles](#articles-)
    - [Research Papers](#research-papers-)
    - [Books](#books-)
-   - [Tools and Libraries](#tools-and-libraries-)
+   - [Tools and Libraries](#tools-and-libraries)
 5. [Blog](#blog-)
-   - [Industry News](#industry-news-)
+   - [Industry News](#industry-news)
    - [Opinion Pieces](#opinion-pieces-)
    - [Interviews](#interviews-)
 6. [Community](#community-)
    - [Forums](#forums-)
    - [Q&A](#qa-)
    - [Events and Webinars](#events-and-webinars-)
-7. [About Us](#about-us-)
+7. [About Us](#about-us)
    - [Our Mission](#our-mission-)
    - [Team](#team-)
    - [Contact Us](#contact-us-)
    - [Privacy Policy](#privacy-policy-)
-   - [Terms of Service](#terms-of-service-)
+   - [Terms of Service](#terms-of-service)
 
 ## Wiki 📚
 
@@ -132,7 +132,7 @@ Discover recommended books that provide comprehensive insights into ML and AI.
 
 🔗 [Learn More](https://ml2ai.com/resources/books)
 
-### Tools and Libraries 🛠️
+### Tools and Libraries
 
 Access a variety of tools and libraries to aid your ML and AI projects.
 
@@ -140,7 +140,7 @@ Access a variety of tools and libraries to aid your ML and AI projects.
 
 ## Blog 📰
 
-### Industry News 🗞️
+### Industry News
 
 Stay informed about the latest trends and developments in the AI industry.
 
