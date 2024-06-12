@@ -24,21 +24,21 @@
    - [Articles](#articles-)
    - [Research Papers](#research-papers-)
    - [Books](#books-)
-   - [Tools and Libraries](#tools-and-libraries-%EF%B8%8F)
+   - [Tools and Libraries](#tools-and-libraries-)
 5. [Blog](#blog-)
-   - [Industry News](#industry-news-%EF%B8%8F)
+   - [Industry News](#industry-news-)
    - [Opinion Pieces](#opinion-pieces-)
    - [Interviews](#interviews-)
 6. [Community](#community-)
    - [Forums](#forums-)
    - [Q&A](#qa-)
    - [Events and Webinars](#events-and-webinars-)
-7. [About Us](#about-us-ℹ%EF%B8%8F)
+7. [About Us](#about-us-)
    - [Our Mission](#our-mission-)
    - [Team](#team-)
    - [Contact Us](#contact-us-)
    - [Privacy Policy](#privacy-policy-)
-   - [Terms of Service](#terms-of-service-%EF%B8%8F)
+   - [Terms of Service](#terms-of-service-)
 
 ## Wiki 📚
 
@@ -86,7 +86,7 @@ Expand your knowledge with advanced tutorials that cover complex algorithms and 
 
 🔗 [Learn More](https://ml2ai.com/tutorials/advanced)
 
-### Projects and Case Studies 💼
+### Projects and Case Studies
 
 Work on real-world projects and case studies to apply your knowledge and gain practical experience.
 
@@ -178,7 +178,7 @@ Attend our events and webinars to learn from industry leaders and network with p
 
 🔗 [Learn More](https://ml2ai.com/community/events)
 
-## About Us ℹ️
+## About Us
 
 ### Our Mission 🎯
 
@@ -204,7 +204,7 @@ Your privacy is important to us. We adhere to strict privacy standards to ensure
 
 🔗 [Read More](https://ml2ai.com/privacy-policy)
 
-### Terms of Service ⚖️
+### Terms of Service
 
 Read our Terms of Service to understand the guidelines and rules for using our website and services.
 
